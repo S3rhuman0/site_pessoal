@@ -1,5 +1,7 @@
 body {
     background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
 }
 
 
@@ -10,7 +12,16 @@ header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+#titulo {
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: navy;
+}
+
 main {
+    align-content: center;
+    max-width: fit-content;
     text-align: justify;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 3em; 
@@ -22,6 +33,8 @@ main {
 }
 h2 {
     color: navy;
+    font-size: 1.5em;
+    margin-bottom: 10px;
 }
 
 footer {
@@ -35,6 +48,11 @@ footer {
     color: black;
     line-height: 0.5em;
     margin-bottom: 1.7em;
+}
+
+#aviso, #aviso2 {
+    opacity: 0.65;
+    font-size: 0.8em;
 }
 
 #copy {
