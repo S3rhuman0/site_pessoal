@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+}
+
+
+header {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h2 {
+    color: navy;
+}
+
+#contato {
+    color: black;
+}
+
+#copy {
+    color: gray;
+}
