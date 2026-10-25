@@ -13,14 +13,28 @@ header {
 main {
     text-align: justify;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    margin-top: 3em; 
+    margin-left: 3em;
+    margin-right: 5em;
+    margin-bottom: 5em;
+    font-size: 1em;
+    color: black;
 }
 h2 {
     color: navy;
 }
 
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 0.8em;
+    margin-left: 3em;
+    margin-right: 5em;
+}
+
 #contato {
     color: black;
+    line-height: 0.5em;
+    margin-bottom: 1.7em;
 }
 
 #copy {
