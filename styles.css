@@ -25,9 +25,10 @@ header {
 
 #eu {
     display: block;
-    max-width: 250px;
+    max-width: 100%;
+    height: auto;
     margin: auto;
-    padding: 5px 5px 5px 5x;
+    padding: 5px 5px 5px 5px;
 }
 
 main {
