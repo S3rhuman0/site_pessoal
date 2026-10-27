@@ -19,12 +19,13 @@ header {
     background: navy;
 }
 
-#hobbies {
+.importante {
     font-weight: bold;
 }
 
 #eu {
     display: block;
+    max-width: 250px;
     margin: auto;
     padding: 5px 5px 5px 5x;
 }
