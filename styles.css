@@ -31,14 +31,11 @@ header {
 }
 
 main {
-    display: block;
+    display:flexbox; 
     max-width: fit-content;
     text-align: justify;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-top: 3em; 
-    margin-left: 5em;
-    margin-right: 5em;
-    margin-bottom: 5em;
+    margin: 0 auto;
     font-size: 1em;
     color: black;
 }
